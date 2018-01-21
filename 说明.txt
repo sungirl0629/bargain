@@ -1,0 +1,3 @@
+1、thinkphp 为3.2版本
+2、linyiit_student 为数据库
+3、用的话直接将 index控制器中的appid和appSecret换成你的公众号的即可！
